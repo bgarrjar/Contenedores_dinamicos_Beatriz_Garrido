@@ -6,6 +6,7 @@
 #include "ejercicio3/Ejercicio3.h"
 #include "ejercicio4/Ejercicio4.h"
 #include "ejercicio5/Ejercicio5.h"
+#include "ejercicio6/Ejercicio6.h"
 
 int main() {
 
@@ -14,6 +15,7 @@ int main() {
     ordenarYMaximo();
     calcularOperaciones();
     cplusplusModerno();
+    manejarBoost();
 
     return 0;
 }
