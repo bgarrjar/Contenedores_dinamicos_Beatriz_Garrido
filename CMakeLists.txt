@@ -8,4 +8,6 @@ add_executable(Contenedores_dinamicos_Beatriz_Garrido
         ejercicio1/Ejercicio1.cpp
         ejercicio1/Ejercicio1.h
         ejercicio2/Ejercicio2.cpp
-        ejercicio2/Ejercicio2.h)
+        ejercicio2/Ejercicio2.h
+        ejercicio3/Ejercicio3.cpp
+        ejercicio3/Ejercicio3.h)
