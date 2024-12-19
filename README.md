@@ -1,12 +1,14 @@
 # Instrucciones del ejercicio:
 
-1. Abrimos el Ubuntu y traemos el repositorio de nuestro GitHub a nuestra maquina con el comando: git clone https://github.com/bgarrjar/Contenedores_dinamicos_Beatriz_Garrido.git
+La instalación de la libreria boost es mucho más fácil y sencilla dede linux, por lo que lo he hecho desde Ubuntu. Por esta razón, si se compila el programa dede CLion este dara error. Hay que hacerlo desde ubuntu para que el programa compile correctamente con esa libreria instalada. 
+
+1. Abrimos el Ubuntu y traemos el repositorio de nuestro GitHub a nuestra máquina con el comando: git clone https://github.com/bgarrjar/Contenedores_dinamicos_Beatriz_Garrido.git
 
 2. Actualizamos los paquetes de nuestro Linux con sudo apt update y posteriormente instalamos la librería de boost con sudo apt install libboost-all-dev. Si es necesario instalamos el compilador con el comando: sudo apt install g++
 
 3. Una vez ya creado, entramos al directorio y compilamos todos los archivos cpp que hay en nuestro programa para crear el ejecutable con el comando: g++ -o programa main.cpp ./ejercicio1/Ejercicio1.cpp ./ejercicio2/Ejercicio2.cpp ./ejercicio3/Ejercicio3.cpp ./ejercicio4/Ejercicio4.cpp ./ejercicio5/Ejercicio5.cpp ./ejercicio6/Ejercicio6.cpp
 
-4. Finalmente se nos creara un archivo llamado programa de tipo ejecutable. Para ejecutarlo colocamos ./programa y ya se ejecutara nuestro programa correctamente.
+4. Finalmente se nos creará un archivo llamado programa de tipo ejecutable. Para ejecutarlo colocamos ./programa y ya se ejecutara nuestro programa correctamente.
 
 # Contenedores_dinamicos_Beatriz_Garrido
 
